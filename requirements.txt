@@ -1,0 +1,58 @@
+# Core Deep Learning (GPU / CPU)
+torch
+torchvision
+torchaudio
+
+# Science stack
+numpy
+scipy
+pandas
+polars
+scikit-learn
+statsmodels
+
+# Plotting & notebooks
+matplotlib
+seaborn
+jupyter
+jupyterlab
+ipykernel
+
+# Modern DL tools
+pytorch-lightning
+torchmetrics
+tensorboard
+
+# HuggingFace ecosystem (NLP, transformers, tokenizers)
+transformers
+datasets
+tokenizers
+
+# Vision
+opencv-python
+Pillow
+albumentations
+timm
+
+# Optimization, tuning & monitoring
+optuna
+ray[tune]
+wandb
+rich
+
+# Data loading, parallelism, utils
+tqdm
+joblib
+
+# Serialization and config
+pyyaml
+omegaconf
+hydra-core
+
+# File formats
+pyarrow
+h5py
+
+# Misc useful packages
+requests
+python-dotenv
