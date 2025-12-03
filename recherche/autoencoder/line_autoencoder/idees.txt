@@ -1,3 +1,4 @@
 - utiliser tous les responders pour train l'AE
 - train sur tous les symbol en même temps
 - data augmentation avec du bruit
+- tester loss, dropout et weight decay
